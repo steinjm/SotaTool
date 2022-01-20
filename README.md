@@ -1,4 +1,5 @@
-# SotaTool **Sarcomere Organization Texture Analysis Tool**
+# SotaTool 
+**Sarcomere Organization Texture Analysis Tool**
 
 
 ## Software tool for automatic quantification of sarcomere length in fixed and live 2D and 3D muscle cell cultures in vitro 
