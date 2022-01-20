@@ -1,10 +1,10 @@
-### SotaTool
+# SotaTool
  
-### Software tool for automatic quantification of sarcomere length in fixed and live 2D and 3D muscle cell cultures in vitro 
+## Software tool for automatic quantification of sarcomere length in fixed and live 2D and 3D muscle cell cultures in vitro 
 
 A detailed article about the usage, validation and background of this method can be found on Current Protocols in Human Genetics (2022). 
 
-# Abstract
+### Abstract
 Sarcomere characteristics and organization are crucial features of the contractile apparatus in cardiac and skeletal muscle cells.  
 They change during development and disease. Assessment of sarcomere distance, alignment and shortening provides insight into disease 
 and drug responses in muscle cell models ranging from cardiomyocytes and skeletal muscle derived from human pluripotent stem cells (hPSCs) 
@@ -21,9 +21,9 @@ how to prepare, image and automatically quantify sarcomere characteristics in di
 validation and discussion of the limitation of our method. 
 
 
-# How to use this application:
+#### How to use this application:
 Download the entire SotaTool folder to your hard-drive. Start the .exe file within the main folder to open the graphic interface. Enter 
 the input folder and the resolution of the input images and click Start. For troubleshooting, read the protocol. 
 
-# How to cite:
+#### How to cite:
 tbd
