@@ -32,7 +32,6 @@ runw_d	-text
 # https://github.com/git/git/blob/master/userdiff.c
 *.c     diff=cpp
 *.h     diff=cpp
-*.md    -text
 *.py    diff=python
 *.rc    diff=pascal
 *.spec  diff=python
