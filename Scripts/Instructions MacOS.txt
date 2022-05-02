@@ -3,10 +3,12 @@ How to set up a virtual environment on MacOS:
 1. install python3
 	Add python to PATH
 
+Following commands are performed in terminal:
 2. curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py
 
 3. python3 get-pip.py
 
+Change the following entries to the correct filepath. 
 4. pip3 install -r /Users/name/Documents/requirements.txt
 
 5. python3 /Users/name/Documents/SotaTool_mk3.py
