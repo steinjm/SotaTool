@@ -1,6 +1,6 @@
 How to set up a virtual environment on MacOS: 
 
-1. install python3
+1. install python 3.9.7
 	Add python to PATH
 
 Following commands are performed in terminal:
