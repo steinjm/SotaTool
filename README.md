@@ -15,4 +15,4 @@ Download the entire SotaTool folder to your hard-drive. Start the .exe file with
 the input folder and the resolution of the input images and click Start. For troubleshooting, read the protocol. 
 
 #### How to cite:
-t
+Stein, J. M., Arslan, U., Franken, M., de Greef, J. C., E. Harding, S., Mohammadi, N., Orlova, V. V., Bellin, M., Mummery, C. L., & van Meer, B. J. (2022). Software Tool for Automatic Quantification of Sarcomere Length and Organization in Fixed and Live 2D and 3D Muscle Cell Cultures In Vitro. Current Protocols, 2(7). doi: 10.1002/cpz1.462
